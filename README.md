@@ -19,7 +19,7 @@ This application will create a database for all the employees of an company. Usi
   - [Credits](#credits)
   
   ## Installation Instructions
-  to install the project simply copy in the files and then install node and use the node index command
+  to install the project simply copy in the files and then youll need to run mysql and source the seeds and schema. then you just need to install node and use the node script.js command
   
   ## Usage Information 
   You can use this application completely through the terminal by installing node copying in the files and running node script.js once that command is entered.  You will then be able to pick through the listed prompts to see any emp[lyee info you may be looking for
